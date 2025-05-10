@@ -4,14 +4,14 @@ git add .
   
 git commit -m "commit"
   
-git config --global user.email "kasunxkalhara@gmail.com"
+	git config --global user.email "kasunxkalhara@gmail.com"
   
-git config --global user.name "kasunx"
-  
-git remote add origin https://github.com/kasunx/D10_ITEC_05_10.git
-  
+	git config --global user.name "kasunx"
+
 git branch -M main
   
+git remote add origin https://github.com/kasunx/D10_ITEC_05_10.git
+   
 git push -u origin main
   
   
