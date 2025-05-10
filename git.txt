@@ -1,0 +1,22 @@
+git init
+  
+git add .
+  
+git commit -m "commit"
+  
+git config --global user.email "kasunxkalhara@gmail.com"
+  
+git config --global user.name "kasunx"
+  
+git remote add origin https://github.com/kasunx/D10_ITEC_05_10.git
+  
+git branch -M main
+  
+git push -u origin main
+  
+  
+  
+  
+git add .
+git commit -m "commit"
+git push -u origin main
